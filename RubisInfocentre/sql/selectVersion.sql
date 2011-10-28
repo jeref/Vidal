@@ -1,0 +1,1 @@
+select * from version order by DATE_INFO DESC

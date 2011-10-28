@@ -1,0 +1,7 @@
+-- si tu as besoin de reconstruire des indexes dans le tablespace INDX :
+set heading off;
+spool rec_index.sql;
+select 'ALTER INDEX ' || index_name || ' rebuild tablespace INDX;' from user_indexes where tablespace_name <> 'INDX';
+spool off;
+@rec_index.sql
+set heading on;

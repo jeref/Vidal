@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/prod_RubisExtraction/!svn/ver/1109/trunk/RubisInfocentre/sql
+END
+AddUser.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/prod_RubisExtraction/!svn/ver/8/trunk/RubisInfocentre/sql/AddUser.sql
+END
+FillTermeRechPhonetique.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/prod_RubisExtraction/!svn/ver/110/trunk/RubisInfocentre/sql/FillTermeRechPhonetique.sql
+END
+SecuriteGlobaleRUBISInfoCentreProduit.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/prod_RubisExtraction/!svn/ver/29/trunk/RubisInfocentre/sql/SecuriteGlobaleRUBISInfoCentreProduit.sql
+END
+TransfertTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/prod_RubisExtraction/!svn/ver/681/trunk/RubisInfocentre/sql/TransfertTables.sql
+END
+20010621SaumonDROP.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/prod_RubisExtraction/!svn/ver/8/trunk/RubisInfocentre/sql/20010621SaumonDROP.sql
+END
+controleDropTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/prod_RubisExtraction/!svn/ver/309/trunk/RubisInfocentre/sql/controleDropTables.sql
+END
+DROPConstraintWeb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/prod_RubisExtraction/!svn/ver/110/trunk/RubisInfocentre/sql/DROPConstraintWeb.sql
+END
+DropINFOIRIS.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/prod_RubisExtraction/!svn/ver/110/trunk/RubisInfocentre/sql/DropINFOIRIS.sql
+END
+controle_TransfertTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/prod_RubisExtraction/!svn/ver/681/trunk/RubisInfocentre/sql/controle_TransfertTables.sql
+END
+SecuriteGlobale.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/prod_RubisExtraction/!svn/ver/195/trunk/RubisInfocentre/sql/SecuriteGlobale.sql
+END
+INFOIRIS_Constraints.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/prod_RubisExtraction/!svn/ver/110/trunk/RubisInfocentre/sql/INFOIRIS_Constraints.sql
+END
+EmptyUnusedFields.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/prod_RubisExtraction/!svn/ver/110/trunk/RubisInfocentre/sql/EmptyUnusedFields.sql
+END
+INFOIRIS_Tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/prod_RubisExtraction/!svn/ver/110/trunk/RubisInfocentre/sql/INFOIRIS_Tables.sql
+END
+Update_UCD.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/prod_RubisExtraction/!svn/ver/110/trunk/RubisInfocentre/sql/Update_UCD.sql
+END
+INFOIRIS_Tables_RMC.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/prod_RubisExtraction/!svn/ver/8/trunk/RubisInfocentre/sql/INFOIRIS_Tables_RMC.sql
+END
+selectVersion.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/prod_RubisExtraction/!svn/ver/285/trunk/RubisInfocentre/sql/selectVersion.sql
+END
+SaumonCREATE.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/prod_RubisExtraction/!svn/ver/1109/trunk/RubisInfocentre/sql/SaumonCREATE.sql
+END
+DropSaumon.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/prod_RubisExtraction/!svn/ver/253/trunk/RubisInfocentre/sql/DropSaumon.sql
+END
+INFOIRIS_Tables_Dictionnaires.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/prod_RubisExtraction/!svn/ver/110/trunk/RubisInfocentre/sql/INFOIRIS_Tables_Dictionnaires.sql
+END
+BackupBaseRubisInfocentreProduit.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/prod_RubisExtraction/!svn/ver/751/trunk/RubisInfocentre/sql/BackupBaseRubisInfocentreProduit.sql
+END
+DropLivret.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/prod_RubisExtraction/!svn/ver/110/trunk/RubisInfocentre/sql/DropLivret.sql
+END
+FillMarqueurs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/prod_RubisExtraction/!svn/ver/110/trunk/RubisInfocentre/sql/FillMarqueurs.sql
+END
+20010621SaumonCREATE.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/prod_RubisExtraction/!svn/ver/8/trunk/RubisInfocentre/sql/20010621SaumonCREATE.sql
+END
+INFOIRIS_Cles_Primaires.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/prod_RubisExtraction/!svn/ver/110/trunk/RubisInfocentre/sql/INFOIRIS_Cles_Primaires.sql
+END
+CreateTermeRechPhonetique.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/prod_RubisExtraction/!svn/ver/8/trunk/RubisInfocentre/sql/CreateTermeRechPhonetique.sql
+END
+Update_Saumon.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/prod_RubisExtraction/!svn/ver/110/trunk/RubisInfocentre/sql/Update_Saumon.sql
+END
+DropTermeRechPhonetique.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/prod_RubisExtraction/!svn/ver/8/trunk/RubisInfocentre/sql/DropTermeRechPhonetique.sql
+END
+DropNewTables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/prod_RubisExtraction/!svn/ver/309/trunk/RubisInfocentre/sql/DropNewTables.sql
+END
+AddHopToRensComp.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/prod_RubisExtraction/!svn/ver/110/trunk/RubisInfocentre/sql/AddHopToRensComp.sql
+END
+INFOIRIS_Index.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/prod_RubisExtraction/!svn/ver/110/trunk/RubisInfocentre/sql/INFOIRIS_Index.sql
+END
+Restore_RUBISInfoCentreProduit.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/prod_RubisExtraction/!svn/ver/751/trunk/RubisInfocentre/sql/Restore_RUBISInfoCentreProduit.sql
+END
+controleTablesVides.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/prod_RubisExtraction/!svn/ver/309/trunk/RubisInfocentre/sql/controleTablesVides.sql
+END
