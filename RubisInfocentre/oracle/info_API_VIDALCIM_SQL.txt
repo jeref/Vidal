@@ -1,1 +1,0 @@
-Aucun changement par rapport à la version 2.09. C'est juste pour être en phase avec la version ORACLE qui a été corrigée de v2.10 à v2.11 pour un problème de compilation en version récente (10 ?).
